@@ -1,0 +1,26 @@
+.btn {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn-classic {
+  padding: 15px 30px;
+  border: 1px solid grey;
+  border-radius: 30px;
+  color: grey;
+}
+
+.btn-treehouse {
+  padding: 15px 30px;
+  border-radius: 5px;
+  color: white;
+  background-color: #2ecc71;
+}
+
+.btn-glowing-blue {
+  padding: 15px 30px;
+  border-radius: 30px;
+  color: #fff;
+  background-color: #3498db;
+  box-shadow: 0px 0px 10px #3498db;
+}

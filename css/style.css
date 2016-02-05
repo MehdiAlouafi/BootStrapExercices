@@ -126,3 +126,9 @@ footer {
   color: #fff;
   font-size: 16px;
 }
+footer a {
+  transition: color 0.3s ease-in-out;
+}
+ footer a:hover {
+   color: #3498db;
+ }
